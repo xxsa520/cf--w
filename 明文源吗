@@ -39,7 +39,7 @@ const regionMapping = {
 let backupIPs = [
     { domain: 'ProxyIP.US.CMLiussss.net', region: 'US', regionCode: 'US', port: 443 },
     { domain: 'ProxyIP.SG.CMLiussss.net', region: 'SG', regionCode: 'SG', port: 443 },
-    { domain: 'jp.x9527.xyz', region: 'JP', regionCode: 'JP', port: 443 },
+    { domain: 'jp.xmmsyy.asia', region: 'JP', regionCode: 'JP', port: 443 },
     { domain: 'ProxyIP.HK.CMLiussss.net', region: 'HK', regionCode: 'HK', port: 443 },
     { domain: 'ProxyIP.KR.CMLiussss.net', region: 'KR', regionCode: 'KR', port: 443 },
     { domain: 'ProxyIP.DE.CMLiussss.net', region: 'DE', regionCode: 'DE', port: 443 },
